@@ -1,0 +1,4 @@
+﻿{
+  "BaseUrl": "https://your-instance.atlassian.net",
+  "ApiToken": "your-api-token-here"
+}
