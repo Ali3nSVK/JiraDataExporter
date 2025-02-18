@@ -2,14 +2,6 @@
 Simple desktop tool to pull data from JIRA into Excel. Eliminates manual copying and pasting of JIRA information.
 Intended for the discerning professional whose technical skills peak at pivot tables.
 
-## What it does
-
-- Updates Excel worksheets with current JIRA statuses and dates
-- One-click operation
-- Works with SharePoint-hosted Excel files
-- Preserves existing worksheet formatting and formulas
-- Supports security level information
-
 ## Setup Requirements
 
 1. JIRA API token
@@ -20,5 +12,6 @@ Intended for the discerning professional whose technical skills peak at pivot ta
 1. Open the app
 2. Paste JIRA issue IDs
 3. Click Get
+4. Excel workbook with required data auto-opens
 
 No JIRA administrative privileges required.
